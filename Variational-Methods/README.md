@@ -1,4 +1,4 @@
-Utilize Total Variation Regularized model to deblur
+Utilize Total Variation Regularized model to deblur, see report.pdf for details
 
 关于代码的说明：
 - 模糊算子的边值条件为'circular'
